@@ -32,4 +32,4 @@ This project involves comprehensive data exploration, cleaning, transformation, 
 ## Contributors
 
 - [Venkatesh Surabathula]
-- [Special Tahnks-Codebasics Bootcamp]
+- [Special Thanks-Codebasics Bootcamp]
